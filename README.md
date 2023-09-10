@@ -124,5 +124,6 @@ The employees who are working for more than ten years need to be re-evaluated pe
 The employees who got lesser getting hikes should be coached that hikes are performance driven and if they focus on adding value, their efforts will be rewarded. Also, some revaluation and corrections can be done for some deserving people if any.
 A proper coaching and training infrastructure should be developed for employees at the bottom level to be able to understand their role and contribute better with the right mentorship. Timely evaluations should happen to push them to learn faster.
 Organisation needs to dig deeper within particular departments which are not doing well like sales and R&D. Possible reasons could be not having an attractive incentive policy in sales, or not having enough tools to be able to deliver results faster in R&D departments. Take anonymous feedbacks to collect the pain points and take actions to fix them.
-                                            ____DONE______
+                                            
+                                                                       ___________DONE____________
 
